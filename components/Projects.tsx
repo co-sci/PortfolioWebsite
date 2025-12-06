@@ -40,10 +40,7 @@ const Projects: React.FC = () => {
           <div>
             <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Projetos Selecionados</h2>
             <p className="text-slate-400">Exemplos práticos de código limpo e arquitetura sólida.</p>
-          </div>
-          <a href="#" className="hidden md:flex items-center gap-2 text-blue-400 hover:text-blue-300 transition-colors mt-4 md:mt-0">
-            Ver todos no GitHub <ExternalLink className="w-4 h-4" />
-          </a>
+          </div> 
         </div>
 
         <div className="grid lg:grid-cols-3 gap-8">
