@@ -77,13 +77,7 @@ const Projects: React.FC = () => {
               </div>
             </div>
           ))}
-        </div>
-        
-        <div className="mt-8 text-center md:hidden">
-            <a href="#" className="inline-flex items-center gap-2 text-blue-400 hover:text-blue-300">
-                Ver todos no GitHub <ExternalLink className="w-4 h-4" />
-            </a>
-        </div>
+        </div> 
       </div>
     </section>
   );

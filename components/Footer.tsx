@@ -19,7 +19,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-slate-500 text-sm">
-            © {new Date().getFullYear()} DevPortfólio. Desenvolvido com React, Tailwind & Gemini.
+            © {new Date().getFullYear()} DevPortfólio. Desenvolvido com React, Tailwind & Python.
           </p>
           <div className="flex gap-6">
             <a href="#" className="text-slate-500 hover:text-white transition-colors"><Github className="w-5 h-5" /></a>
