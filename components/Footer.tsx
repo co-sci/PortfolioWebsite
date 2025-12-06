@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
             <p className="text-slate-400">Estou disponível para freelance e contratos de longo prazo.</p>
           </div>
           <div className="flex gap-4">
-            <a href="mailto:contact@example.com" className="px-6 py-3 bg-white text-slate-900 rounded-lg font-semibold hover:bg-slate-200 transition-colors">
+            <a href="https://wa.me/5522999433134" className="px-6 py-3 bg-white text-slate-900 rounded-lg font-semibold hover:bg-slate-200 transition-colors">
               Enviar E-mail
             </a>
           </div>
