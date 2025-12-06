@@ -39,7 +39,7 @@ const Navbar: React.FC = () => {
               {link.name}
             </a>
           ))}
-          <a href="#contact" className="px-4 py-2 bg-slate-800 hover:bg-slate-700 text-white text-sm font-medium rounded-lg border border-slate-700 transition-colors">
+          <a href="wa.me/5522999433134" className="px-4 py-2 bg-slate-800 hover:bg-slate-700 text-white text-sm font-medium rounded-lg border border-slate-700 transition-colors">
             Contratar
           </a>
         </div>
