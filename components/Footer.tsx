@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
           </div>
           <div className="flex gap-4">
             <a href="https://wa.me/5522999433134" className="px-6 py-3 bg-white text-slate-900 rounded-lg font-semibold hover:bg-slate-200 transition-colors">
-              Enviar E-mail
+              Entrar em Contato
             </a>
           </div>
         </div>
